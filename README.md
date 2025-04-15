@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshleyBushi33
 - 👀 I’m interested in ballet, being outside, yoga, meditation, and coding. 
-- 🌱 I’m currently learning JavaScript and Playwright.
+- 🌱 I’m currently learning JavaScript for Playwright.
 - 💞️ I’m looking to collaborate on ... theories of conciousness, and anything that expands my (or your) mind.
 - 📫 How to reach me: email me
 - 😄 Pronouns: she/her
